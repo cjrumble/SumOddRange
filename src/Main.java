@@ -27,7 +27,6 @@ Example input/output:
 * sumOdd(13, 13); → should return 13 (This set contains one number, 13, and it is odd)
 * sumOdd(100, -100); → should return -1
 * sumOdd(100, 1000); → should return 247500
-
 TIP: use the remainder operator to check if the number is odd
 NOTE: Both methods  needs to be defined as public static like we have been doing so far in the course.
 NOTE: Do not add a  main method to solution code.
